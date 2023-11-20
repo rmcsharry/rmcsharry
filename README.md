@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **CTO challenges**
 
-- 📄 Know about my experiences [https://richardmcsharry.com/assets/files/Richard%20McSharry%20Resume%202022.pdf](https://richardmcsharry.com/assets/files/Richard%20McSharry%20Resume%202022.pdf)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1uWy-33CmWxIdEsVE7yRTvA74_Xi5vNdHSCkPwpPZ7mc/edit?usp=sharing)
 
 - ⚡ Fun fact **100% of fun facts are neither funny nor factual. This one is the only exception.**
 
