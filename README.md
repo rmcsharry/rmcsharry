@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [checkwiz](https://github.com/orgs/checkwiz/projects/1)
+- 🔭 I’m currently working on [checkwiz](https://checkwiz.com/about-us)
 
 - 🌱 I’m currently learning **bubble, AI, python**
 
