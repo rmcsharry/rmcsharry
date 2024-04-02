@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [checkwiz](https://checkwiz.com/about-us), a SaaS app for immigration lawyers
 
-- 🌱 I’m currently learning **bubble, AI, python**
+- 🌱 I’m currently learning **Remix, AI, python**
 
-- 👨‍💻 All of my projects are available at [https://www.richardmcsharry.com](https://www.richardmcsharry.com)
+- 👨‍💻 Discover more about me at [https://www.richardmcsharry.com](https://www.richardmcsharry.com)
 
 - 💬 Ask me about **CTO challenges**
 
