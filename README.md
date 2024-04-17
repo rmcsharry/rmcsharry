@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **CTO challenges**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1uWy-33CmWxIdEsVE7yRTvA74_Xi5vNdHSCkPwpPZ7mc/edit?usp=sharing)
+- 📄 Read about my experiences [here](https://docs.google.com/document/d/1uWy-33CmWxIdEsVE7yRTvA74_Xi5vNdHSCkPwpPZ7mc/edit?usp=sharing)
 
-- ⚡ Fun fact **100% of fun facts are neither funny nor factual. This one is the only exception.**
+- ⚡ Fun fact: **100% of fun facts are neither funny nor factual. This one is the only exception.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
