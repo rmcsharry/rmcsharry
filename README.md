@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on a patent for a new AI platform. I'm also the CTO at [checkwiz](https://checkwiz.com/about-us), a SaaS app for immigration lawyers
+- 🔭 I’m currently working on a patent for a new AI platform. I'm also the CTO at a few startups you probably never heard of.
 
 - 🌱 I’m currently learning Rust, Tauri, Move (SUI)
 
