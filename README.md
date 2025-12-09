@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">Just Another Code Monkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmcsharry&label=Profile%20views&color=0e75b6&style=flat" alt="rmcsharry" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rmcsharry" alt="rmcsharry" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https:/x.com/richardmcsharry" target="blank"><img src="https://img.shields.io/twitter/follow/rmcsharry" alt="" /></a> </p>
 
 - 🔭 I’m currently working on a patent for a new AI platform. I'm also the CTO at a few startups you probably never heard of.
 
